@@ -1,0 +1,11 @@
+{
+    "name": "matto1990/php-last.fm-api",
+    "authors": [
+        {
+            "name": "Matt Oakes",
+        }
+    ],
+    "require": {
+
+    }
+}
